@@ -1,3 +1,3 @@
-# OSUarea
 my tablet area
-https://i.imgur.com/GEYM0h5.png
+
+<img src=https://i.imgur.com/GEYM0h5.png>
