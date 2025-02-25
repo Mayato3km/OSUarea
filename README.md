@@ -1,3 +1,3 @@
 my tablet area
 
-<img src=https://i.imgur.com/GEYM0h5.png>
+<img src=https://i.imgur.com/XNNL6tJ.jpeg>
